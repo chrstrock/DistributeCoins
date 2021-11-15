@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributeCoins", "DistributeCoins\DistributeCoins.csproj", "{74ADA12E-B805-4AEB-9AE8-9C044CBB2B72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DistributeCoinsTests", "DistributeCoinsTests\DistributeCoinsTests.csproj", "{E06F8A3B-7E63-493E-9FAC-B6E8D780DACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74ADA12E-B805-4AEB-9AE8-9C044CBB2B72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74ADA12E-B805-4AEB-9AE8-9C044CBB2B72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74ADA12E-B805-4AEB-9AE8-9C044CBB2B72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74ADA12E-B805-4AEB-9AE8-9C044CBB2B72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E06F8A3B-7E63-493E-9FAC-B6E8D780DACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E06F8A3B-7E63-493E-9FAC-B6E8D780DACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E06F8A3B-7E63-493E-9FAC-B6E8D780DACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E06F8A3B-7E63-493E-9FAC-B6E8D780DACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {864FDDAE-8F00-4B64-9C8D-AB2ECFEF8CA7}
+	EndGlobalSection
+EndGlobal
